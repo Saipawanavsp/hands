@@ -1,1 +1,1 @@
-# hands
+# Handwritten-Digit-Recognition-using-MNIST-dataset
